@@ -12,7 +12,7 @@
 - 📫 How to reach me? On my email robertnova@outlook.com is the easiest way; I guess a call should be the easiest, but if I don't know your number... well, you get it.
 
 
-
-<a href="https://app.daily.dev/RobertoRuizD"><img src="https://api.daily.dev/devcards/b87b820849554129aed9bb225373f4b1.png?r=tv0" width="400" alt="Roberto Ruiz-Duarte's Dev Card" align="center"/></a>
-
+<p align="center">
+<a href="https://app.daily.dev/RobertoRuizD"><img src="https://api.daily.dev/devcards/b87b820849554129aed9bb225373f4b1.png?r=tv0" width="400" alt="Roberto Ruiz-Duarte's Dev Card"/></a>
+</p>
 
