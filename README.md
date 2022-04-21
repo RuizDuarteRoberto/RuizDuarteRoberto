@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Roberto Ruiz-Duarte, and I've taught myself to code. I am father and a husband who lives in Bromley (South London, UK) with his family. I always have an interest in computers and what you can do with them, now I want to discover what AI can do in the near future. 
+- 👋 Hi, I’m Roberto Ruiz-Duarte, and I'm a self-taught developer. I am father and a husband who lives in Bromley (South London, UK) with his family. I always have an interest in computers and what you can do with them, now I want to discover what AI can do in the near future. 
 
 - 👀 I’m interested in JavaScriptS/ES6, HTML, CSS, ReactJS, AI, VS Code, movies, fitness, writing non-code (I write screenplays, yep), technology in general, and sport cars. These and many other things, but we better leave something for later on. 😉
 
