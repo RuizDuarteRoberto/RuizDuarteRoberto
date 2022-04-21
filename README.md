@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on interesting projects, I'll know it when I see it, but you know who you are. The team is very important, a collaborative and supportive space, with options to keep growing professionally and learning new stuff would be amazing.
 
 
-- 📫 How to reach me? On my email robertnova@outlook.com is the easiest way; I guess a call should be the easiest, but if I don't know your number... well, you get it.
+- 📫 How to reach me? On my email robertoruizduarte2010@gmail.com is the easiest way; I guess a call should be the easiest, but if I don't know your number... well, you get it.
 
 
 
