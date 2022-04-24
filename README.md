@@ -3,9 +3,6 @@
 - 👀 I’m interested in JavaScriptS/ES6, HTML, CSS, ReactJS, AI, VS Code, movies, fitness, writing non-code (I write screenplays, yep), technology in general, and sports cars. These and many other things, but we better leave something for later on. 😉
 
 
-- 📚 I’m currently learning more about React, and React Native (there is always room for improvement), and anything interesting that I find online, every day there is something new in daily.dev (and I guess that's why they called it 'daily').
-
-
 - 💞️ I’m looking to collaborate on interesting projects, I'll know it when I see it, but you know who you are. The team is very important, a collaborative and supportive space, with options to keep growing professionally and learning new stuff, would be amazing.
 
 
